@@ -1,4 +1,4 @@
-# Chrome Bookmark for Performance Results
+# Chrome Bookmark for Google Search Console Performance Results
 
 This repository provides a JavaScript bookmarklet to quickly navigate to a website's performance results page. This tool is designed to help SEO specialists efficiently access and analyze performance metrics, making their workflow more streamlined. 
 
