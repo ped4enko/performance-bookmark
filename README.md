@@ -1,6 +1,8 @@
 # Chrome Bookmark for Performance Results
 
-This repository provides a JavaScript bookmarklet to quickly navigate to a website's performance results page. This tool is designed to help SEO specialists efficiently access and analyze performance metrics, making their workflow more streamlined.
+This repository provides a JavaScript bookmarklet to quickly navigate to a website's performance results page. This tool is designed to help SEO specialists efficiently access and analyze performance metrics, making their workflow more streamlined. 
+
+
 
 ## Features
 
@@ -14,7 +16,7 @@ This repository provides a JavaScript bookmarklet to quickly navigate to a websi
    - Download the ZIP file and extract its contents.
    - Alternatively, clone the repository using Git:
      ```bash
-     git clone https://github.com/yourusername/performance-bookmark.git
+     git clone https://github.com/ped4enko/performance-bookmark.git
      ```
 
 2. **Create a Bookmark**:
@@ -29,6 +31,10 @@ This repository provides a JavaScript bookmarklet to quickly navigate to a websi
 ## How It Works
 
 The bookmark uses a JavaScript snippet that, upon activation, redirects the browser to the specified performance analysis page. This is especially useful for SEO specialists who need quick access to performance metrics for optimization purposes.
+
+## Example Use Case
+
+I tested this script while working on the **TurnKey Tech Staffing** project ([TurnKey Tech Staffing](https://turnkeystaffing.com/)), which helps skilled developers find stable and reliable jobs in US tech startups. This tool significantly streamlined our workflow, making it easier to monitor and improve our website's performance.
 
 ## Contributing
 
@@ -47,3 +53,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 Thanks to the SEO community for providing valuable feedback and helping improve this tool.
+
